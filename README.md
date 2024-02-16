@@ -6,3 +6,9 @@ The name of the chatbot as well as the service can easily be changed by changing
 
 CS_Chatbot v1.0 and v2.0 is an experimental build of the chatbot.\
 Use CS_Chatbot v3.0 for the best experience.
+
+## How to use
+1. Open the CS_Chatbot v3.0 notebook
+2. Install the required libraries using requirements.txt
+3. Upload an OpenAI API Key to the directory
+4. The code is ready to run
